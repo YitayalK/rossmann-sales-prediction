@@ -10,6 +10,5 @@ __pycache__/
 *.zip
 *.tar.gz
 *.tar
-*.gz
 *.tgz
 *.rar
