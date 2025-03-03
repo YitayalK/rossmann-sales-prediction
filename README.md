@@ -2,7 +2,7 @@
 
 # Rossmann Pharmaceuticals Sales Forecasting
 
-This project is an end-to-end solution to forecast daily sales for Rossmann Pharmaceuticals stores up to six weeks ahead. Using datasets from Kaggle (train.csv, store.csv, and test.csv), the solution covers data exploration, cleaning, feature engineering, model building (both classical machine learning and deep learning approaches), and serving predictions via a REST API.
+This project is an end-to-end solution to forecast daily sales for Rossmann Pharmaceuticals stores. The solution covers data exploration, cleaning, feature engineering, model building (both classical machine learning and deep learning approaches), and serving predictions via a REST API.
 
 ## Table of Contents
 
