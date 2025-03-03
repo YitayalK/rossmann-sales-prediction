@@ -41,7 +41,7 @@ The solution:
 rossmann_sales_forecast/
 ├── data/                   # CSV files: train.csv, store.csv, test.csv
 ├── notebooks/              # Jupyter Notebooks (e.g., EDA.ipynb)
-├── models/                 # Serialized model files (e.g., random_forest_<timestamp>.pkl, lstm_model.h5)
+├── models/                 # Serialized model files (e.g., random_forest_03-03-2025-23-25-43.pkl, lstm_model.h5)
 ├── scripts/                # Python scripts:
 │   ├── feature_engineering.py  # Feature extraction and transformation functions
 │   ├── train_ml_model.py       # ML model pipeline training and evaluation
