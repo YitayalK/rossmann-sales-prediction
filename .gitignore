@@ -1,0 +1,15 @@
+rspvenv/
+.env
+*.pyc
+.venv/ 
+__pycache__/
+*.pkl
+*.csv
+.DS_Store
+*.log
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.tgz
+*.rar
