@@ -1,5 +1,3 @@
-Below is an example README file in Markdown format that you can include in your project repository. You may adjust any section as needed.
-
 ---
 
 # Rossmann Pharmaceuticals Sales Forecasting
@@ -183,15 +181,3 @@ store['Promo2SinceWeek'] = store['Promo2SinceWeek'].fillna(0)
 store['Promo2SinceYear'] = store['Promo2SinceYear'].fillna(0)
 store['PromoInterval'] = store['PromoInterval'].fillna('None')
 ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for improvements, bug fixes, or feature requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify this README file to match your project’s exact structure and additional details.
